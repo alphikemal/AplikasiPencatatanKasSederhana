@@ -1,9 +1,9 @@
-# CRUD Nodejs and Mysql
-this is a basic application crud that uses nodejs in the backend, mysql as database.
-
-# Usefull Commands
+# AplikasiAkuntansiKasSederhana
+Final Project Accounting
+# Command Berguna
 - to init mysql: `mysql -u root -p`
 
-# links
+# Link FE
 - [bootstrap 4 theme](https://bootswatch.com/4/lux/bootstrap.min.css)
 # AplikasiPencatatanKasSederhana
+# KasSederhanaJS
